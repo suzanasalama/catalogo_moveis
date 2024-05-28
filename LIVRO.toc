@@ -1,0 +1,12 @@
+\thispagestyle {empty}
+\contentsline {chapter}{Apresentação, \textit {por Acácio Augusto e Helena Wilke}}{9}%
+\contentsline {part}{Ação direta e outros escritos}{19}%
+\contentsline {chapter}{Anarquismo\FN@sf@gobble@opt {Texto originalmente publicado no jornal anarquista \emph {Free Society} em 1901.}}{21}%
+\contentsline {chapter}{O anarquismo e as tradições americanas}{47}%
+\contentsline {chapter}{Ação direta}{71}%
+\contentsline {section}{Como as correntes serão quebradas?}{94}%
+\contentsline {section}{E enquanto isso?}{95}%
+\contentsline {section}{E não deve se submeter}{99}%
+\vspace \medskipamount 
+\contentsline {chapter}{Posfácio, \textit {por Emma Goldman}}{101}%
+\babel@toc {brazilian}{}
